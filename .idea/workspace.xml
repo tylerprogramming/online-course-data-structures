@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c4fb16b-4cd9-42c8-b753-35e3e6a8d3a8" name="Default Changelist" comment="" />
+    <list default="true" id="1c4fb16b-4cd9-42c8-b753-35e3e6a8d3a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson02/Lesson2DArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson02/Lesson2DArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson02/LessonArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson02/LessonArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson02/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson02/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson03/CircularlyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson03/CircularlyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson03/DLLNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson03/DLLNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson03/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson03/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson03/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson03/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson03/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson03/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson04/LessonStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson04/LessonStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson05/LessonDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson05/LessonDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson05/LessonQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson05/LessonQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson06/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson06/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson06/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson06/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson07/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson07/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson07/HeapTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson07/HeapTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson09/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson09/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson09/SkipList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson09/SkipList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson09/SkipListTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson09/SkipListTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson10/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson10/AVLTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson10/AVLTreeTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson10/AVLTreeTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson10/BalanceableTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson10/BalanceableTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson10/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson10/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson11/SplayTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson11/SplayTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson11/SplayTreeTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson11/SplayTreeTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson12/RedBlackTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson12/RedBlackTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson12/RedBlackTreeTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tyler/lesson12/RedBlackTreeTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson13/AdjacencyMapGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson13/BFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson13/DFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson13/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson13/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson13/GraphTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tyler/datastructures/lesson13/Vertex.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +54,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1zQkGZfMy5VZzQI05uUjeKC4SNy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +69,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/data_structures" />
   </component>
   <component name="RecentsManager">
